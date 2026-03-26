@@ -1,0 +1,7 @@
+C:\Users\USUARIO11\source\repos\Taller26\obj\Debug\Taller26.csproj.AssemblyReference.cache
+C:\Users\USUARIO11\source\repos\Taller26\obj\Debug\Taller26.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO11\source\repos\Taller26\bin\Debug\Taller26.exe.config
+C:\Users\USUARIO11\source\repos\Taller26\bin\Debug\Taller26.exe
+C:\Users\USUARIO11\source\repos\Taller26\bin\Debug\Taller26.pdb
+C:\Users\USUARIO11\source\repos\Taller26\obj\Debug\Taller26.exe
+C:\Users\USUARIO11\source\repos\Taller26\obj\Debug\Taller26.pdb
